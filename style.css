@@ -107,3 +107,36 @@ text-align: center;
 
 
 }
+
+
+.button_style_2{
+
+background-color: #1D4ED8;
+padding: 10px 5px;
+border-radius: 10px;
+font-weight: bold;
+font-size: 30px;
+color: rgb(255, 255, 255);
+border: none;
+
+
+
+}
+
+
+
+
+
+.new_button{
+
+margin: auto;
+color: rgb(255, 255, 255);
+position: absolute;
+top: 85%;
+left: 50%;
+transform: translate(-50%, -50%);
+text-align: center;
+
+
+}
+
