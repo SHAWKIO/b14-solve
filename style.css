@@ -126,7 +126,6 @@ border: none;
 
 
 
-
 .new_button{
 
 margin: auto;
@@ -139,4 +138,67 @@ text-align: center;
 
 
 }
+
+
+
+
+
+.speakers{
+
+max-width:1200px;
+    margin:100px auto;
+    padding:0 20px;
+
+}
+
+
+.speakers h2{
+
+
+text-align:center;
+    font-size:48px;
+    margin-bottom:50px;
+
+
+}
+
+
+
+.cardo{
+
+
+    border:1px solid #e5e5e5;
+
+    border-radius:12px;
+
+    overflow:hidden;
+
+    background:#fff;
+
+
+
+}
+
+
+
+.spc{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:30px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
 
